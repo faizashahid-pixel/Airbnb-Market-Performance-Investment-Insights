@@ -30,7 +30,8 @@ This project analyzes Airbnb listings in major cities to uncover insights around
 
 | Main Dashboard | Drill-Through View |
 |----------------|-------------------|
-| ![]() | ![](images/drillthrough_example.png) |
+| ![](Airbnb_Performance_Analysis_Overview.png) | ![](drillthrough_view.png) |
+
 
 > 🔍 Drill-through allows users to click a neighborhood for detailed insights on pricing, occupancy, and room types.
 
