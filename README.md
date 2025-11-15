@@ -1,4 +1,4 @@
-# airbnb-data-analysis
+# Airbnb-data-analysis
 End-to-end Airbnb analysis: Excel Power Query for ETL, Power BI for insights.
 ---
 # Project Overview
@@ -30,7 +30,8 @@ This project analyzes Airbnb listings in major cities to uncover insights around
 
 | Main Dashboard | Drill-Through View |
 |----------------|-------------------|
-| ![](Airbnb_Performance_Analysis_Overview.png) | ![](drillthrough_view.png) |
+| ![](Airbnb%20Performance%20Analysis%20Overview.png) | ![](Neighbourhood%20Detail%20Insights.png) |
+
 
 
 > 🔍 Drill-through allows users to click a neighborhood for detailed insights on pricing, occupancy, and room types.
