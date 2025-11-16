@@ -64,7 +64,7 @@ This project analyzes Airbnb listings in major cities to uncover insights around
 
 - **Microsoft Excel Power Query** – Data cleaning and transformation  
 - **Power BI** – Interactive dashboards and drill-through analysis  
-- **DAX** – Calculated measures for KPIs (optional)  
+- **DAX** – Calculated measures for KPIs
 
 ---
 # Repository Contents
@@ -82,7 +82,7 @@ This project analyzes Airbnb listings in major cities to uncover insights around
 
 1. Download the `.pbix` file  
 2. Open it in Power BI Desktop  
-3. Use slicers (City, Room Type, Price Range) to interact  
+3. Use slicers (City, Room Type, Price Range, neighborhood Group) to interact  
 4. Right-click any neighborhood → Drill Through → Deep insight page  
 
 ---
